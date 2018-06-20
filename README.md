@@ -1,0 +1,2 @@
+# uploadFile
+shell脚本抓取固定目录下的文件发送至ftpsever
